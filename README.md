@@ -1,4 +1,4 @@
-# knockon
+# stoka
 AI-Powered Investment Signals
 # Clone your repo
 git clone https://github.com/teedsy/knockon.git
